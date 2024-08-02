@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854240123174",
+    "project_id": "flash-chat-f0212",
+    "storage_bucket": "flash-chat-f0212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854240123174:android:67ee4f82ca0cfe0dc909e7",
+        "android_client_info": {
+          "package_name": "com.adeus.flash_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgn7YgLAhzpMP2AVzvtkV3S_F4dLFSwnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
